@@ -29,7 +29,7 @@ Continuous Learning: In a rapidly evolving tech landscape, I'm committed to stay
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harshit-singh-40babb228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-singh-40babb228/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshit-singh-40babb228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshit-singh-40babb228/" height="30" width="40" /></a>
 <a href="https://instagram.com/harshitvj021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harshitvj021" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/harshitvj021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshitvj021" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/harshitsingh_021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="harshitsingh_021" height="30" width="40" /></a>

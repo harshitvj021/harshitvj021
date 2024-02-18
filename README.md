@@ -9,8 +9,6 @@ What I'm Passionate About
 
 Coding: I thrive on exploring different programming languages and frameworks, with a particular passion for [mention your favorite languages or technologies].
 
-Open Source: I strongly advocate for open-source projects and believe in the collaborative spirit that drives community-driven development.
-
 Problem Solving: The challenge of solving intricate problems and crafting elegant solutions fuels my enthusiasm. I enjoy diving into algorithms and data structures to hone my problem-solving skills.
 
 Continuous Learning: In a rapidly evolving tech landscape, I'm committed to staying updated with the latest trends and advancements, embracing continuous learning as a cornerstone of my journey.</h3>

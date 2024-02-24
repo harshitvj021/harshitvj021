@@ -5,7 +5,7 @@ Welcome to my GitHub profile!, a passionate coder based in India. Here, you'll f
 About Me
 I'm driven by the thrill of coding. My journey in programming began when I discovered the power of creating solutions from scratch. Since then, I've delved into various programming languages and frameworks, constantly learning and growing along the way.
 
-Problem Solving:The challenge of solving intricate problems and crafting elegant solutions fuels my enthusiasm. I enjoy diving into algorithms and data structures to hone my problem-solving skills.</h3>
+Problem Solving: The challenge of solving intricate problems and crafting elegant solutions fuels my enthusiasm. I enjoy diving into algorithms and data structures to hone my problem-solving skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshitvj021&label=Profile%20views&color=0e75b6&style=flat" alt="harshitvj021" /> </p>
 

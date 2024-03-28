@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Singh</h1>
+<h1 align="center">Hi 👋, I'm Harshit Singh </h1>
 <h3 align="center">
 Welcome to my GitHub profile!, a passionate coder based in India. Here, you'll find a glimpse into my journey, projects, and interests in the world of technology and beyond.
 

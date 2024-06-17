@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshit Singh </h1>
 <h3 align="center">
-Welcome to my GitHub profile!, a passionate coder based in India. Here, you'll find a glimpse into my journey, projects, and interests in the world of technology and beyond.
+Welcome to my GitHub profile!, a passionate coder based in India. Here, you'll glimpse my journey, projects, and interests in the world of technology and beyond.
 
 About Me
 I'm driven by the thrill of coding. My journey in programming began when I discovered the power of creating solutions from scratch. Since then, I've delved into various programming languages and frameworks, constantly learning and growing along the way.
